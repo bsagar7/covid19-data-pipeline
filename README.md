@@ -65,8 +65,8 @@ This project demonstrates a complete data engineering workflow that extracts, st
 │   ├── staging_raw.py          # Snowpark script to load and transform data
 │   └── transformed.sql          # Enrich CURATED data with country names
 │
-├── dashboards/
-│   └── Tableau_Dashboard.png      
+├── Tableau_Dashboard.png  
+│  
 │
 └── README.md
 ```
